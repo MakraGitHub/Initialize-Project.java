@@ -1,0 +1,9 @@
+com\makara\java\school\phoneshop\dto\BrandDTO.class
+com\makara\java\school\phoneshop\entity\Brand.class
+com\makara\java\school\phoneshop\PhoneshopNightApplication.class
+com\makara\java\school\phoneshop\service\BrandService.class
+com\makara\java\school\phoneshop\controller\BrandController.class
+com\makara\java\school\phoneshop\service\util\Mapper.class
+com\makara\java\school\phoneshop\Impl\BrandServiceImpl.class
+com\makara\java\school\phoneshop\entity\Model.class
+com\makara\java\school\phoneshop\repository\BrandRepository.class
